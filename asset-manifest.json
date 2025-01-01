@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/pheta/static/css/main.6eafd1d3.chunk.css",
-    "main.js": "/pheta/static/js/main.e4564b2a.chunk.js",
-    "main.js.map": "/pheta/static/js/main.e4564b2a.chunk.js.map",
-    "runtime-main.js": "/pheta/static/js/runtime-main.190913f5.js",
-    "runtime-main.js.map": "/pheta/static/js/runtime-main.190913f5.js.map",
-    "static/js/2.f9bea97f.chunk.js": "/pheta/static/js/2.f9bea97f.chunk.js",
-    "static/js/2.f9bea97f.chunk.js.map": "/pheta/static/js/2.f9bea97f.chunk.js.map",
+    "main.js": "/pheta/static/js/main.7f27ec85.chunk.js",
+    "main.js.map": "/pheta/static/js/main.7f27ec85.chunk.js.map",
+    "runtime-main.js": "/pheta/static/js/runtime-main.ce057569.js",
+    "runtime-main.js.map": "/pheta/static/js/runtime-main.ce057569.js.map",
+    "static/js/2.e215d1aa.chunk.js": "/pheta/static/js/2.e215d1aa.chunk.js",
+    "static/js/2.e215d1aa.chunk.js.map": "/pheta/static/js/2.e215d1aa.chunk.js.map",
     "index.html": "/pheta/index.html",
     "static/css/main.6eafd1d3.chunk.css.map": "/pheta/static/css/main.6eafd1d3.chunk.css.map",
-    "static/js/2.f9bea97f.chunk.js.LICENSE.txt": "/pheta/static/js/2.f9bea97f.chunk.js.LICENSE.txt",
+    "static/js/2.e215d1aa.chunk.js.LICENSE.txt": "/pheta/static/js/2.e215d1aa.chunk.js.LICENSE.txt",
     "static/media/bg.9c266f0c.jpg": "/pheta/static/media/bg.9c266f0c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.190913f5.js",
-    "static/js/2.f9bea97f.chunk.js",
+    "static/js/runtime-main.ce057569.js",
+    "static/js/2.e215d1aa.chunk.js",
     "static/css/main.6eafd1d3.chunk.css",
-    "static/js/main.e4564b2a.chunk.js"
+    "static/js/main.7f27ec85.chunk.js"
   ]
 }
